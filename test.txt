@@ -1,2 +1,3 @@
 # example-team-project
 testchange
+resolve conflicts
